@@ -1,0 +1,14 @@
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\bin\Debug\net9.0\_Question02_.exe
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\bin\Debug\net9.0\_Question02_.deps.json
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\bin\Debug\net9.0\_Question02_.runtimeconfig.json
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\bin\Debug\net9.0\_Question02_.dll
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\bin\Debug\net9.0\_Question02_.pdb
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.AssemblyInfoInputs.cache
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.AssemblyInfo.cs
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.csproj.CoreCompileInputs.cache
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.dll
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\refint\_Question02_.dll
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.pdb
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\_Question02_.genruntimeconfig.cache
+C:\Users\sroom.DESKTOP-1BB40C8\source\repos\Exam_Alex\Question02\_Question02_\obj\Debug\net9.0\ref\_Question02_.dll
