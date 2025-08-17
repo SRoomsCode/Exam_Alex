@@ -15,7 +15,12 @@ class Program
             }
             Console.WriteLine($"{items.Length + 1}. Exit");
             Console.Write("Please make a selection: ");
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
+            if (input == null)
+            {
+                Console.WriteLine("Input was null. Please enter a value.");
+                continue;
+            }
             int choice;
             if (!int.TryParse(input, out choice))
             {
